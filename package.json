@@ -44,6 +44,7 @@
     "semver": "5.5.0",
     "stream-to-string": "1.1.0",
     "test-listen": "1.1.0",
+    "update-electron-app": "^2.0.1",
     "vercel": "31.0.3"
   },
   "devDependencies": {
